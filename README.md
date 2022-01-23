@@ -6,3 +6,4 @@
 * Trellis plots of the data also show similar rates across all five states (See ancillary reporting on the last page of this report).
 * I estimated a single model instead of a model for all 5 states in order to decrease the probability of committing a Type I error.
 
+![image](https://user-images.githubusercontent.com/95881308/150697008-2fa3e27e-3c78-405d-b9a2-dc4bfdb85ea2.png)
